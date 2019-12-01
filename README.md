@@ -17,7 +17,7 @@ Do the questions on book and you can get good grades in the exam.
 
 These files look like:
 
-![Image of File](https://github.com/hwa95/STAT180/blob/README-edit/%E6%88%AA%E5%B1%8F2019-12-01%E4%B8%8A%E5%8D%883.27.20.png)
+![Image of File](https://github.com/hwa95/STAT180/blob/master/%E6%88%AA%E5%B1%8F2019-12-01%E4%B8%8A%E5%8D%883.27.20.png)
 
 ### Notice
 
