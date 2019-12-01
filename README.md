@@ -1,4 +1,6 @@
 # STAT180
-Github project for STAT180
 
-Edit README on the README-edit branch
+## Edit using markdown syntax
+
+
+_Edit on __README-edit__ branch_
