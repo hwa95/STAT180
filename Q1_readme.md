@@ -9,3 +9,4 @@ pathlib
 
 
 In task_1 you must set correct path to read data, and make sure sklearn is installed properly.  
+It takes a few minutes to draw the network.
