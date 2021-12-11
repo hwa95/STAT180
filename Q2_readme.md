@@ -3,8 +3,8 @@ To run this program, you need to first install the following environments or lib
 Python 3 +  
 Jupyter Notebook  
 Pandas  
-Numpy. 
-neuralprophet. 
+Numpy  
+neuralprophet  
 Cartopy and all the dependencies  
 glob  
 pathlib  
